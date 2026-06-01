@@ -9,3 +9,6 @@ A Python program that automatically solves Sudoku puzzles using the Backtracking
 
 ## Language
 Python
+
+##Author
+Chaparapu Sravanthi
